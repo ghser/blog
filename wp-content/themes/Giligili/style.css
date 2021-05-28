@@ -45,8 +45,8 @@ body::-webkit-scrollbar-thumb {
  /*红绿灯结束*/
  
   /* 鼠标指针开始 */
-body {cursor:url('/wp-content/themes/Giligili/img/cursor.cur'),auto;}
-a:hover{cursor:url('/wp-content/themes/Giligili/img/pointer.cur'),auto;}
+body {cursor:url('https://ghser.com/wp-content/themes/Giligili/img/cursor.cur'),auto;}
+a:hover{cursor:url('https://ghser.com/wp-content/themes/Giligili/img/pointer.cur'),auto;}
    /* 鼠标指针结束 */
  
  /* 标签云大小随机开始 */
@@ -87,11 +87,11 @@ body, .sticky {
   z-index: 998;
   background-position: 0 0;
   text-align: center;
-  background-image: url(/wp-content/themes/Giligili/img/backtop1.png);
+  background-image: url(https://ghser.com/wp-content/themes/Giligili/img/backtop1.png);
   background-repeat: no-repeat;
 }
 .back-top[data-v-37d58309]:hover {
-  background-image: url(/wp-content/themes/Giligili/img/backtop2.png);
+  background-image: url(https://ghser.com/wp-content/themes/Giligili/img/backtop2.png);
 }
  /* 返回顶部结束 */
 
